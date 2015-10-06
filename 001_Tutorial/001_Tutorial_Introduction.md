@@ -16,11 +16,11 @@ Gerrit拥有的好处：
 
 **传统基于授权的代码管理：**
 
-![传统基于授权的代码管理](./pic/intro-quick-central-repo.png)
+![传统基于授权的代码管理](../pic/intro-quick-central-repo.png)
 
 **基于Gerrit的代码管理：**
 
-![基于Gerrit的代码管理](./pic/intro-quick-central-gerrit.png)
+![基于Gerrit的代码管理](../pic/intro-quick-central-gerrit.png)
 
 基于Gerrit的代码管理，代码提交后是进入待审核状态（Pending），只有在审核者审核之后才能进入代码仓库，也就是上图中的submit过程。
 Gerrit实现了功能丰富的授权控制模型（后面有详细介绍）
